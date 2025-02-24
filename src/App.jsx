@@ -7,7 +7,7 @@ function App() {
             <DotGrid />
             <div className="center-content">
                 <h1>Vela</h1>
-                <p>Coming soon, contact us at <a href="mailto:hello@velanetworks.com">hello@velanetworks.com</a></p>
+                <p>Coming soon, contact us at <a href="mailto:hello@velanetworks.io">hello@velanetworks.io</a></p>
             </div>
         </div>
     );
