@@ -46,11 +46,11 @@
     transform: translate(-50%, -50%);
     text-align: center;
     color: #000000;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.4);
     padding: 2rem;
     border-radius: 8px;
     /* Optional: add a subtle backdrop blur for a frosted glass effect */
-    backdrop-filter: blur(2px);
+    backdrop-filter: blur(1px);
 }
 
 .center-content h1 {
