@@ -6,8 +6,8 @@ function App() {
         <div className="App">
             <DotGrid />
             <div className="center-content">
-                <h1>Vela</h1>
-                <p>Coming soon, contact us at <a href="mailto:hello@velanetworks.io">hello@velanetworks.io</a></p>
+                <h1>Valence</h1>
+                <p>Coming soon, contact us at <a href="mailto:hello@valencenetworks.com">hello@valencenetworks.com</a></p>
             </div>
         </div>
     );

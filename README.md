@@ -1,4 +1,4 @@
-# Vela Homepage
+# Valence Homepage
 
 
 ## Instructions
